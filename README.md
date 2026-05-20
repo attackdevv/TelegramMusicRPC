@@ -12,7 +12,7 @@ Realtime RPC для Telegram, который автоматически пока
 Пример bio:
 
 ```text
-🎵 Играет: Drake — Passionfruit
+🎵 Играет: Crier — i wanna feel u.
 ```
 
 ---

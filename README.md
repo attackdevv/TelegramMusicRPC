@@ -51,7 +51,7 @@ Add Python to PATH
 # 📁 Клонирование проекта
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/attackdevv/TelegramMusicRPC.git
 cd TelegramMusicRPC
 ```
 

@@ -252,6 +252,4 @@ dist/main.exe
 ```
 ---
 
-# ❤️ Credits
-
-Made by Attack Dev
+# codded by attackdev in 2026

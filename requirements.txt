@@ -1,0 +1,7 @@
+telethon
+customtkinter
+pillow
+pystray
+requests
+winrt-runtime
+winrt-Windows.Media.Control

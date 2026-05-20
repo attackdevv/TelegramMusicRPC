@@ -1,0 +1,11 @@
+{
+    "enabled": true,
+    "update_interval": 5,
+    "telegram": {
+        "api_id": 12345,
+        "api_hash": "1212121211221212"
+    },
+    "rpc": {
+        "prefix": "\ud83c\udfb5"
+    }
+}
